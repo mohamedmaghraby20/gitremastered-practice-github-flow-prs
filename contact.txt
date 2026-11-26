@@ -1,2 +1,2 @@
 Corner Cafe, 12 Mill Street
-Emial: hello@cornercafe.example
+Email: hello@cornercafe.example
