@@ -1,3 +1,4 @@
 Coffee 3.00
 Tea 2.50
 Croissant 2.80
+Scone 2.20
